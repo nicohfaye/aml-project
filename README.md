@@ -1,5 +1,5 @@
 # Task Arithmetic Under Bias-Variance Trade-off
-## Advanced Machine Learning
+
 ### Main goals
 
 - To investigate the relationship between the change in the amount of Information
