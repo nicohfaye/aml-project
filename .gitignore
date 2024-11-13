@@ -1,3 +1,9 @@
+# Project specific files to ignore
+datasets/
+paper/
+README_task.md
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
